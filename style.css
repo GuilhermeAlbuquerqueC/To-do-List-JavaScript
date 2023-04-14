@@ -69,6 +69,7 @@ border-radius: 1rem;
 #to-do-list li{
     list-style-type: none;
     display: flex;
+    text-transform: capitalize;
     gap: 1rem;
     justify-content: space-between;
 }
